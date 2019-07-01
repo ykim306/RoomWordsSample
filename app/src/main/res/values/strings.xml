@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Room Words Sample</string>
     <string name="action_settings">Settings</string>
+    <string name="no_data_found">NO DATA FOUND</string>
+    <string name="hint_enter_new_word">Enter New Word</string>
+    <string name="label_button_save">Save</string>
+    <string name="no_word_entered">No word entered</string>
 </resources>
